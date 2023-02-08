@@ -1,0 +1,9 @@
+.login-page-outer-div {
+  margin-top: 8rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.login-page-yuva-img {
+  width: 100%;
+}
