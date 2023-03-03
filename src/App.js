@@ -1,11 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Toaster } from "react-hot-toast";
-import { HashRouter } from 'react-router-dom'
-
-
 
 // My components
 import Navbar from "./components/common/Navbar";
+
 import UserHome from "./routes/user/HomePage";
 import UserLogin from "./routes/user/LoginPage";
 import UserVerticals from "./routes/user/VerticalsPage";
@@ -30,10 +28,6 @@ import "./App.css";
 
 function UserApp() {
   return (
-    <>
-    <HashRouter>
-  <App/>
-</HashRouter>
     <Routes>
       <Route exact path="/user/login" element={<UserLogin />} />
       <Route exact path="/" element={<UserHome />} />
@@ -63,9 +57,7 @@ function UserApp() {
       <Route exact path="/user/certificate/:certId" element={<CertPage />} />
       <Route exact path="/user/dashboard" element={<UserDashBoard />} />
     </Routes>
-    </>
   );
-  
 }
 
 function AdminApp() {
