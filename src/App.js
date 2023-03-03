@@ -92,6 +92,10 @@ function App() {
         <div className="app-outer-div">
           <UserApp />
           <AdminApp />
+          <Routes>
+          <Route component={UserHome} />
+
+          </Routes>
         </div>
         <Toaster
           toastOptions={{
