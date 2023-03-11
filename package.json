@@ -1,6 +1,7 @@
 {
   "name": "rough_work_react",
   "version": "0.1.0",
+  "homepage": "https://yuva-portal-preview.onrender.com/",
   "private": true,
   "overrides": {
     "@react-pdf/renderer": {
