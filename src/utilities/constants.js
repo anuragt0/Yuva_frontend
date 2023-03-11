@@ -1,6 +1,6 @@
 // const SERVER_ORIGIN = "http://localhost:5000";
-const SERVER_ORIGIN = "https://yuva-backend.onrender.com";
-// const SERVER_ORIGIN = "http://sampledeploypractice-env.eba-mz4fsd2f.us-east-1.elasticbeanstalk.com";
+// const SERVER_ORIGIN = "https://yuva-backend.onrender.com";
+const SERVER_ORIGIN = "http://sampledeploypractice-env.eba-mz4fsd2f.us-east-1.elasticbeanstalk.com";
 
 
 const vars = {
