@@ -33,6 +33,7 @@ const CertPage = () => {
     courseName: "",
     unitId: "",
   });
+  const [URL, setUrl] = useState("");
 
   const [isLoading, setIsLoading] = useState(false);
 
@@ -68,6 +69,8 @@ const CertPage = () => {
         } else {
           // for future
         }
+        setUrl(window.location.href);
+        console.log("hererer: ", window.location.href);
 
         setIsLoading(false);
       } catch (err) {
@@ -85,7 +88,6 @@ const CertPage = () => {
     downloadCertificate();
   };
 
-  const URL = "https://www.youtube.com/";
 
   return (
     <div className="cert-page-outer-div">
