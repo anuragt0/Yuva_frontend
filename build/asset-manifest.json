@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.bf867310.css",
-    "main.js": "/static/js/main.d1492cc8.js",
-    "static/js/498.b9096814.chunk.js": "/static/js/498.b9096814.chunk.js",
-    "static/js/703.f9196f3a.chunk.js": "/static/js/703.f9196f3a.chunk.js",
-    "static/js/142.95dcf900.chunk.js": "/static/js/142.95dcf900.chunk.js",
+    "main.js": "/static/js/main.f9b33b7b.js",
+    "static/js/498.928d7c3b.chunk.js": "/static/js/498.928d7c3b.chunk.js",
+    "static/js/703.edf748a5.chunk.js": "/static/js/703.edf748a5.chunk.js",
+    "static/js/142.2b65e58f.chunk.js": "/static/js/142.2b65e58f.chunk.js",
     "static/media/yuva_logo.png": "/static/media/yuva_logo.3c6f879e529424ef3164.png",
     "static/media/all_logo_5.png": "/static/media/all_logo_5.bbc6dbc15c1f074a0e0c.png",
     "static/media/cii_logo.jpg": "/static/media/cii_logo.4d9c3380ab81e4e7ed4c.jpg",
@@ -12,13 +12,13 @@
     "static/media/yi_logo.png": "/static/media/yi_logo.e0c6c2b059a1432f13ef.png",
     "index.html": "/index.html",
     "main.bf867310.css.map": "/static/css/main.bf867310.css.map",
-    "main.d1492cc8.js.map": "/static/js/main.d1492cc8.js.map",
-    "498.b9096814.chunk.js.map": "/static/js/498.b9096814.chunk.js.map",
-    "703.f9196f3a.chunk.js.map": "/static/js/703.f9196f3a.chunk.js.map",
-    "142.95dcf900.chunk.js.map": "/static/js/142.95dcf900.chunk.js.map"
+    "main.f9b33b7b.js.map": "/static/js/main.f9b33b7b.js.map",
+    "498.928d7c3b.chunk.js.map": "/static/js/498.928d7c3b.chunk.js.map",
+    "703.edf748a5.chunk.js.map": "/static/js/703.edf748a5.chunk.js.map",
+    "142.2b65e58f.chunk.js.map": "/static/js/142.2b65e58f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf867310.css",
-    "static/js/main.d1492cc8.js"
+    "static/js/main.f9b33b7b.js"
   ]
 }
